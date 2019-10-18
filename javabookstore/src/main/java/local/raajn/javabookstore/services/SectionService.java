@@ -1,5 +1,5 @@
 package local.raajn.javabookstore.services;
 
-public interface AuthorService
+public class SectionService
 {
 }

@@ -1,5 +1,5 @@
 package local.raajn.javabookstore.repositories;
 
-public class SectionRepository
+public interface SectionRepository
 {
 }
